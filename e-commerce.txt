@@ -1,0 +1,253 @@
+ VEDIO - 2
+
+Backend-SetUp
+
+1) Download Node.js
+2) Make Package.json file                      
+3)Install Express js and MongoDb Package      npm i express/mongoose/ 
+4)Intall Nodemon                              npm i -g nodemon
+5) Make index file and run it                 
+
+
+VEDIO - 3 
+
+Frontend Setup
+
+1) install react App                 npx create-react-app front-end
+2) run app
+3) make a small cheange              file -name app.js
+
+
+VEDIO - 4
+
+Routing in React Js
+
+1)Install router                     npm i react-router-dom
+2)Make Header File			create a navbar functional component
+3) Make links'				import {Link} <Link to = "">
+4)Make Routes                           import Routes  <routs  path = "" element = ""/>
+
+
+Vedio - 5
+
+Header And Footer
+
+1) Add Style In Header   
+2) Make Footer Componet
+3) Add style with footer
+4) Update Project Structure
+
+
+vedio - 6
+
+Sign-Up-Page-layout
+
+1)Make Componet For Signup
+2)Make Input Fields
+3)Get form Data
+
+
+vedio - 7
+
+database Setup
+
+1)Download mongoDb Setup
+2)Installl Mongodb
+3)Setup and Test
+
+vedio - 9 
+
+SignUp Api
+
+1)MAke Db Collection
+2)Make config file
+3)Make Model
+4)Make Route For Api
+5)Test Api with Postman
+
+vedio - 10
+
+fix cors issue in node
+
+vedio - 11
+Integrate Signup Api In React
+
+1)Recap last part
+2)Integrate Api
+3)Redirect Page
+4)Test Flow
+
+
+vedio - 12
+
+1)keep user data in local storage
+2)make private component
+3)Handle signup page with local storage
+4)update navbar for with logout and signup menu
+
+vedio-13
+
+Logout
+
+1)Make a Function For logout
+2)clear local storage
+3)Redirect user to signup
+4) Bug fix of last part
+
+
+vedio-14
+
+Login Api in Nodejs
+
+1) Make Route for api
+2)pass data from Postman
+3)fetch result from db
+4)Remobe password from register and login api
+5)Test Flow
+
+vedio - 15 
+
+Login Component
+
+1)Make login Component
+2)Make login Routes
+3)Make Input Fields
+4)Get Input Data State
+5) Test Flow
+
+vedio-16
+
+Login Api integration
+
+1)Test API with Postman
+2)Call Api on login button click
+3)Set LocalStorage
+4)Redirect Page
+5)Update Navbar
+6)Test Flow
+
+Vedio - 17
+
+Update Navbar
+
+1) Hide Products Menu before Login
+2)Show Logged-in user name
+3)Add Logo and Style
+4)Test-flow
+5)Insta - > Code.steps
+
+vedio - 18
+
+Add Product Api
+
+1)Make collection for product
+2)DEfine model for product collection
+3)Make route for ad product
+4)send data from postman
+5)insta -> code.steps
+
+
+vedio - 19
+
+Add Product Component
+
+1)Make New Component 
+2)Define Input Fields
+3)Add Style to Fields
+4)Get Data From Input fields
+5) Insta - > code.steps
+
+
+vedio-20 
+
+Call Api For Add Product
+
+1) Get Use id from local storage
+2) Call Api to Add product
+3) Get The  result and test flow
+
+
+vedio - 21 
+1)check empty state
+2)Show Eroor message
+3)Add style
+4)Test Flow
+
+vedio -22 
+
+Product list Api
+
+1)Make Router for product list Api
+2) Fetch Data from database
+3)Test Api with postman
+
+Vedio - 23
+ 
+Integrate Product List Api
+
+1) Make Function and define state
+2)Call api for product list
+3)make static list
+4)render product list
+
+Vedio - 24 
+
+Delete -Api
+
+1)Make Route for API.
+2)Get id with Params in Api Url
+3)delete product from db
+4)Test api with the postman
+
+vedio - 25 
+
+Integrate Delete Product Api
+
+1)Add Deletre Column
+2)Make  Function for delete api call.
+3)call delete Product Api
+4)Test flow
+
+
+
+Vedio - 26 
+
+Update Product Component								https://www.npmjs.com/package/react-toastify
+
+1)Add Link for Update Product
+2)Make Component For update Product
+3)make input field for update Products
+4)collect input fields data
+
+vedio - 27 
+
+Api for get single Product
+
+1)Make Api Route
+2)Fetch data from database
+3)Test Api with POstman
+
+
+Vedio - 28
+
+Prefil Update Product Form
+1)  Get if from URL Params
+2) Fetch Product Data
+3) Set Data in Input field
+
+Vedio - 29
+
+API for Update Product 
+
+1)Make a new Routefor Api.
+2)Write code for update Db.
+3)Send Data from postman.
+4)Test Api
+
+vedio - 30
+Integrate Api for Update Product
+
+1)Use Fetch method for Api integration
+2)send adata with the put method
+3)Redirect to product list page
+
